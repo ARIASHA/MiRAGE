@@ -1,6 +1,6 @@
 # MiRAGE
 
-MiRAGE: Mining Relationships for Advanced Generative Evaluation in Drug Repositioning
+[MiRAGE: Mining Relationships for Advanced Generative Evaluation in Drug Repositioning](https://academic.oup.com/bib/article/25/4/bbae337/7717951?login=false&utm_source=etoc&utm_campaign=bib&utm_medium=email)
 
 This is the official code base for MiRAGE, a novel computational method for drug repositioning.
 Drug repositioning, the identification of new therapeutic uses for existing drugs, is crucial for accelerating drug
